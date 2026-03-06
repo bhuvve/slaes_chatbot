@@ -226,8 +226,8 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("📊 Sales Analytics Chatbot - FastAPI Server")
     print("=" * 60)
-    print("🌐 Open http://localhost:8000 in your browser")
-    print("📚 API docs at http://localhost:8000/docs")
+    print("🌐 Open http://localhost:8002 in your browser")
+    print("📚 API docs at http://localhost:8002/docs")
     print("=" * 60 + "\n")
     
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8002)

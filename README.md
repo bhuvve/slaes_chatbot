@@ -42,7 +42,7 @@ Get your API key from: https://makersuite.google.com/app/apikey
 python app.py
 ```
 
-Open http://localhost:8000 in your browser
+Open http://localhost:8002 in your browser
 
 ## Example Questions
 
